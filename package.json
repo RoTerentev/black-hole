@@ -21,7 +21,7 @@
   "author": "roman.dv.93@gmail.com",
   "license": "MIT",
   "dependencies": {
-    "fastify": "^2.7.1",
+    "fastify": "^2.15.1",
     "hyperid": "^2.0.2",
     "rimraf": "^3.0.0"
   },
